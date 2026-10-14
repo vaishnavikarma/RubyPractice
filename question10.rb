@@ -28,5 +28,5 @@ for i in 0...numbers.length
      end
    end
  end
-
- puts"#{numbers}"
+final = numbers.compact
+ puts"#{final}"
